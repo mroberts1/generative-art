@@ -1,7 +1,9 @@
 Type: #type/person
 Area: #area/generative-art
 Keyword: #keyword/generative-art #keyword/theory #keyword/definition
-Date created: 2026-05-07
+Date created: [[2026-05-07]]
+Updated: [[2026-05-07]]
+Sources: [[Galanter - Generative Art Theory (2016)]]
 
 ---
 
@@ -11,7 +13,7 @@ Artist, theorist, and educator. Formulated the most widely-cited definition of g
 
 ## Sources in This Vault
 
-- [[Galanter Generative Art Theory]]
+- [[Galanter - Generative Art Theory (2016)]]
 
 ## Concepts They Inform
 

@@ -1,8 +1,37 @@
+Type: #type/source
+Tier: #source/peer-reviewed
+Area: #area/generative-art
+Keyword: #keyword/generative-art #keyword/theory #keyword/definition #keyword/systems-art #keyword/complexity-science
+Date created: [[2026-05-07]]
+Last verified: [[2026-05-07]]
+Source: Galanter, Philip. "Generative Art Theory." In *A Companion to Digital Art*, ed. Christiane Paul. John Wiley & Sons, 2016.
+Source URL: https://creativecoding.soe.ucsc.edu/courses/cmpm202_w20/texts/galanter_generative.pdf
+Superseded by:
+
 ---
-source_url: https://creativecoding.soe.ucsc.edu/courses/cmpm202_w20/texts/galanter_generative.pdf
-ingested: 2026-05-07
-sha256: 9781407567eedb2720bfd7655982b514af9204994f334004c7a0357b193900fa
+
+**Summary**
+
+Galanter's 2016 chapter is the foundational definitional text for generative art as an analytic category. He defines generative art as art created by systems set into motion with relative autonomy from moment-to-moment artist control. The argument is that the field encompasses historical practices from Jacquard looms and Sol LeWitt rule-based systems through contemporary algorithmic and biological media — not a computer-era phenomenon but a systems-based practice that predates computers by centuries. Complexity science provides the unifying theoretical framework across mechanical, conceptual, biological, and computational instances.
+
+**Key points**
+
+- Generative art = art produced by autonomous or semi-autonomous systems, not direct artist manipulation
+- The field has grown exponentially since 2000 but is frequently conflated with "computer art"
+- Generative practices include mechanical (Jacquard loom), conceptual (Sol LeWitt instructions), biological, and algorithmic systems
+- Complexity science provides a unified theoretical framework spanning all systems-based art
+- Autonomy ≠ independence: the artist designs the system, then lets it generate
+- Communities of practice span computer music (1950s onward), visual art, design, interactive systems
+- Core unresolved question: the distinction between "art" (low bar) and "good art" (high, contentious bar)
+
+**Claude's notes**
+
+This is the anchor source for the vault's definitional scope. Galanter's framework is widely cited and effectively defines how the field understands itself. The emphasis on systems-across-history (not just post-digital) is the most load-bearing move in the chapter and is often overlooked in casual treatments. Strong candidate for multiple concept pages (generative-art-definition, autonomy-in-systems, complexity-science-framework) once corroborated by a second source. Needs pairing with: (1) an independent definitional voice — Margaret Boden, Jon McCormack, or Mitchell Whitelaw would work; (2) a practitioner voice — a working artist's statement rather than a theorist's synthesis; (3) a critical voice — someone genuinely disputing the autonomy-as-definitional move. Without those, every concept grounded in this source will remain Confidence: low per the 2-source rule.
+
 ---
+
+## Original extracted text
+
 A Companion to Digital Art, First Edition. Edited by Christiane Paul.  
 © 2016 John Wiley & Sons, Inc. Published 2016 by John Wiley & Sons, Inc.
 Generative Art Theory
@@ -1610,3 +1639,4 @@ Washburn, Dorothy K., and Donald W. Crowe. 1988. Symmetries of Culture: Theory a
 Practice of Plane Pattern Analysis. Seattle, WA: University of Washington Press.
 Zelevansky, Lynn, Valerie Hillings, and Los Angeles County Museum of Art. 2004. Beyond 
 Geometry: Experiments in Form, 1940s–70s. Cambridge, MA: The MIT Press.
+
